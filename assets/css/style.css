@@ -96,6 +96,14 @@ header
     height: 120px;
     text-decoration: none;
     color: #fff;
+}
+
+.menuitem a i
+{
+    padding-top: 22px;
+    display: block;
+    color: #fafafa;
+    font-size: 26px;   
 
 }
 
