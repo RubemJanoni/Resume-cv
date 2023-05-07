@@ -35,6 +35,11 @@ header
     background-color: #525252;
 }
 
+.bg-color-three-reasons
+{
+    background-color: #fff;
+}
+
 /*---------------------------Special paddings,margin,text----*/
 
 h1,
@@ -193,7 +198,7 @@ footer
     line-height: 7px;
     text-align: center;
     color: #fafafa;
-    background: #8f8f8f;
+    background-color: #8f8f8f;
     transition: all 0.35s ease-in-out;
     -moz-transition: all 0.35s ease-in-out;
     -webkit-transition: all 0.35s ease-in-out;
@@ -206,6 +211,26 @@ footer
 
 #footer-details {
     padding: 20px;
+}
+
+.row-table
+{
+    display: table;
+}
+
+.section-column
+{
+    display: table-cell;
+    padding: 0 30px 30px; 
+    float: none;
+}
+
+.section-heading
+{
+    font-family: "Exo",sans-serif;
+    font-weight: 300;
+    margin-top: 25px;
+    margin-bottom: 40px;
 }
 
 
