@@ -35,6 +35,16 @@ header
     background-color: #525252;
 }
 
+/*---------------------------Special paddings,margin,text----*/
+
+h1,
+h2,
+h3,
+h4
+{
+    margin: 0;
+}
+
 .logo
 {
     background-image: url("../images/rosie.jpg");
